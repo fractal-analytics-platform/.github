@@ -1,0 +1,4 @@
+{
+    "name": "Update pixi.toml",
+    "description": "Run `pixi update` on a regular schedule (or on-demand) and create Pull Request with the updated lock file."
+}
