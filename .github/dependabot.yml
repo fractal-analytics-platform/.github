@@ -3,7 +3,7 @@
 version: 2
 updates:
   - package-ecosystem: github-actions
-    directory: /.github/workflows
+    directory: /workflow-templates
     schedule:
       interval: "quarterly"
     cooldown:
